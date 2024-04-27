@@ -1,0 +1,20 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.btn{
+  background-color: #c9c7c7;
+  padding: 5px;
+  border-radius: 5px;
+}
+.button{
+  padding: 3px;
+}
+.liste{
+  list-style-type: circle;
+  margin-left: 40px;
+  margin-top: 10px;
+}
+.list{
+  margin-top: 20px;
+}
